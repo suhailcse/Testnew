@@ -3,7 +3,7 @@
 <suite name="Suite" verbose="1" parallel="tests">
   <parameter name="url" value="https://www.google.com/"/>
     <parameter name="os" value="windows"/>
-    <parameter name="node" value="http://192.168.1.5:4444"/>
+    <parameter name="node1" value="http://192.168.1.5:4444"/>
 
 
 
